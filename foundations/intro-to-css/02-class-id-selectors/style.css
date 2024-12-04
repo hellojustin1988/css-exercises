@@ -1,0 +1,19 @@
+.odd {
+    background-color: #F72A49;
+    font-family: "Verands", "DejaVu Sans", "sans-serif"; 
+}
+
+#item-two {
+    color: blue;
+    font-size: 36px;
+}
+
+.item-three {
+    font-size: 24px;
+}
+
+#item-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
